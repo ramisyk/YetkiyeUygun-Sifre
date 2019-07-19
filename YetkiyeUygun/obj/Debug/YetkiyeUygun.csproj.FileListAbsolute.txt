@@ -1,0 +1,7 @@
+C:\Users\ramis.yuksel\source\repos\YetkiyeUygun\YetkiyeUygun\bin\Debug\YetkiyeUygun.exe.config
+C:\Users\ramis.yuksel\source\repos\YetkiyeUygun\YetkiyeUygun\bin\Debug\YetkiyeUygun.exe
+C:\Users\ramis.yuksel\source\repos\YetkiyeUygun\YetkiyeUygun\bin\Debug\YetkiyeUygun.pdb
+C:\Users\ramis.yuksel\source\repos\YetkiyeUygun\YetkiyeUygun\obj\Debug\YetkiyeUygun.csprojAssemblyReference.cache
+C:\Users\ramis.yuksel\source\repos\YetkiyeUygun\YetkiyeUygun\obj\Debug\YetkiyeUygun.csproj.CoreCompileInputs.cache
+C:\Users\ramis.yuksel\source\repos\YetkiyeUygun\YetkiyeUygun\obj\Debug\YetkiyeUygun.exe
+C:\Users\ramis.yuksel\source\repos\YetkiyeUygun\YetkiyeUygun\obj\Debug\YetkiyeUygun.pdb
